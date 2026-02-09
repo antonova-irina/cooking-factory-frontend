@@ -34,14 +34,15 @@ A React application (React + TypeScript + Vite) for managing a cooking school: I
    ```bash
    cp .env.example .env
    ```
-   Edit `.env` and set `VITE_API_URL` to your backend API base URL (e.g. `http://localhost:8080/api`).
+   Edit `.env` and set `VITE_API_URL` to the backend API base URL (e.g. `http://localhost:8080/api`).
+
 
 4. Start the development server:
    ```bash
    npm run dev
    ```
 
-   The app runs at `http://localhost:5173` (or the port shown in the terminal).
+   The app runs at `http://localhost:3000` (or the port shown in the terminal).
 
 ## Available Scripts
 
@@ -73,4 +74,4 @@ src/
 
 ## License
 
-See the project license file.
+No license file found in the repository.
